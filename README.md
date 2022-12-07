@@ -154,9 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Adava Onimisi - [Github](https://github.com/Nomynameisjames) / [Twitter](https://twitter.com/pathoverdex)  
+Kehinde Owolabi - [Github](https://github.com/kehindeowolabi) / [Twitter](https://twitter.com/nill)
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Adava Onimisi
 ## License
 Public Domain. No copy write protection. 
